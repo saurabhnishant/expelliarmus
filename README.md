@@ -1,11 +1,12 @@
 # Expelliarmus
-	Semantic management of Virtual machine images (VMIs). The current implementation of Expelliarmus is tested on Ubuntu 16.04 LTS, however there is no such arbitrary requirement and can be deployed on any Linux based environment with manual build for libguestfs.
 
 ## Design and Contribution credits:
         1. Nishant Saurabh (PhD Researcher,University of Innsbruck, Alpen-Adria Universitat Klagenfurt)
-        2. Julian Remmers, University of Innsbruck, Austria.
-	3. Contact: nishant@itec.aau.at
+        2. Julian Remmers, University of Innsbruck, Austria
+        3. Contact: nishant@itec.aau.at
 
+## Goal and definition:
+	Semantic management of Virtual machine images (VMIs). The current implementation of Expelliarmus is tested on Ubuntu 16.04 LTS, however there is no such arbitrary requirement and can be deployed on any Linux based environment with manual build for libguestfs.
 
 ## Checklist
  	1. Expelliarmus Requirements
