@@ -2,7 +2,7 @@
 
 ## Design and Contribution credits:
         1. Nishant Saurabh (PhD Researcher,University of Innsbruck, Alpen-Adria Universitat Klagenfurt)
-        2. Julian Remmers, University of Innsbruck, Austria
+        2. Julian Remmers, (MSc. student, University of Innsbruck, Austria)
         3. Contact: nishant@itec.aau.at
 
 ## Goal and definition:
