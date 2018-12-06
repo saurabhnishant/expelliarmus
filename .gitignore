@@ -1,0 +1,6 @@
+VMIs/*
+localRepository/BaseImages/*
+localRepository/packages/*
+!localRepository/packages/basic
+localRepository/Userfolders/*
+.idea/workspace.xml

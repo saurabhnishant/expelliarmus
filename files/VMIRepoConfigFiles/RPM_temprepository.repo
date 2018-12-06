@@ -1,0 +1,4 @@
+[tempRepo]
+name=Temporary Repository
+baseurl=file:///var/tempRepository/
+enabled=1
