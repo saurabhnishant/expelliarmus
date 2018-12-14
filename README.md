@@ -4,9 +4,9 @@
 	N. Saurabh, J.Remmers, D. Kimovski, R. Prodan and G. Barbosa, "Semantics-aware Virtual Machine Image Management in IaaS Clouds," 2019 33rd IEEE International Parallel & Distributed Processing Symposium (IPDPS), Rio de Janerio, Brazil, May 20-24, 2019.	
 
 ## Design and Contribution credits:
-        1. Nishant Saurabh (PhD Researcher,University of Innsbruck, Alpen-Adria Universitat Klagenfurt)
-        2. Julian Remmers, (MSc. student, University of Innsbruck, Austria)
-        3. Contact: nishant@itec.aau.at
+        1. Nishant Saurabh (PhD Researcher,University of Innsbruck, Alpen-Adria Universitat Klagenfurt, Austria)
+        2. Julian Remmers, (MSc., University of Innsbruck, Austria)
+        3. Contact: nishant@itec.aau.at, julian.remmers@student.uibk.ac.at
 
 ## Goal and definition:
 	Semantic management of Virtual machine images (VMIs). The current implementation of Expelliarmus is tested on Ubuntu 16.04 LTS, however there is no such arbitrary requirement and can be deployed on any Linux based environment with manual build for libguestfs.
