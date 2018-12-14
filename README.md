@@ -1,6 +1,6 @@
 # Expelliarmus
 
-## Cite us:
+## Paper Citation:
 	N. Saurabh, J.Remmers, D. Kimovski, R. Prodan and G. Barbosa, "Semantics-aware Virtual Machine Image Management in IaaS Clouds," 2019 33rd IEEE International Parallel & Distributed Processing Symposium (IPDPS), Rio de Janerio, Brazil, May 20-24, 2019.	
 
 ## Design and Contribution credits:
