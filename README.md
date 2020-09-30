@@ -2,13 +2,13 @@
 
 ## Paper Citation (Please cite the papers below):
 
-1. N. Saurabh, J. Remmers, D. Kimovski, R. Prodan and J. G. Barbosa, "Semantics-Aware Virtual Machine Image 
-   Management in IaaS Clouds," 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS), 
-   Rio de Janeiro, Brazil, 2019, pp. 418-427, doi: 10.1109/IPDPS.2019.00052.
+(1) N. Saurabh, J. Remmers, D. Kimovski, R. Prodan and J. G. Barbosa, "Semantics-Aware Virtual Machine Image 
+    Management in IaaS Clouds," 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS), 
+    Rio de Janeiro, Brazil, 2019, pp. 418-427, doi: 10.1109/IPDPS.2019.00052.
 	
-	2. Nishant Saurabh, Shajulin Benedict, Jorge G. Barbosa, Radu Prodan, Expelliarmus: Semantic-centric virtual 
-	   machine image management in IaaS Clouds, Journal of Parallel and Distributed Computing, Volume 146, 2020, 
-	   Pages 107-121, ISSN 0743-7315,https://doi.org/10.1016/j.jpdc.2020.08.001.
+(2) Nishant Saurabh, Shajulin Benedict, Jorge G. Barbosa, Radu Prodan, Expelliarmus: Semantic-centric virtual 
+    machine image management in IaaS Clouds, Journal of Parallel and Distributed Computing, Volume 146, 2020, 
+    Pages 107-121, ISSN 0743-7315,https://doi.org/10.1016/j.jpdc.2020.08.001.
 	
 
 ## Design and Contribution credits:
