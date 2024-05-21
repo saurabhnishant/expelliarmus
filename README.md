@@ -1,6 +1,6 @@
 # Expelliarmus
 
-## Paper Citation (Please cite the papers below):
+## Paper Citation (Please cite the two papers below):
 
 (1) N. Saurabh, J. Remmers, D. Kimovski, R. Prodan and J. G. Barbosa, "Semantics-Aware Virtual Machine Image 
     Management in IaaS Clouds," 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS), 
